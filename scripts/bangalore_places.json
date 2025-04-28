@@ -1,0 +1,105 @@
+{
+    "city": "Bangalore",
+    "places": [
+        {
+            "name": "1.Lalbagh Botanical Garden",
+            "description": "Internationally renowned as a centre for botanical artwork and conservation of plants, Lalbagh is one of the most scenic gardens in the state. Sprawling over an area of 240 acre, the park draws visitors in large numbers with its popular glass house and also serves as a home for as many as 1,854 species of plants.",
+            "reviews": [
+                {
+                    "Rating": 4.7,
+                    "Reviews": "\n\tPositive: A breathtaking botanical garden with diverse flora. The well-maintained grounds and seasonal flower shows make it a paradise for nature lovers.\n\tNegative: Weekend crowds can be overwhelming, impacting the peaceful ambiance. Some areas might benefit from improved signage."
+                }
+            ]
+        },
+        {
+            "name": "2.Banglore Palace",
+            "description": "The Bangalore Palace is famous for its beautiful wood carvings and fascinating architecture. To an extent, it resembles the medieval castles of Normandy and England as it has been built in the Tudor style of architecture, with Scottish Gothic influences.",
+            "reviews": [
+                {
+                    "Rating": 4.6,
+                    "Reviews": "\n\tPositive: A regal experience with magnificent architecture and informative guided tours. The palace's historical significance and European design are captivating.\n\tNegative: Restricted photography inside the palace may disappoint some visitors, and the entrance fee is relatively high for some."
+                }
+            ]
+        },
+        {
+            "name": "3.Tippu Sultan Summer Palace",
+            "description": "Tipu Sultan's Summer Palace, in Bangalore, India, is an example of Indo-Islamic architecture and was the summer residence of the Mysorean ruler Tipu Sultan. Hyder Ali commenced its construction within the walls of the Bangalore Fort, and it was completed during the reign of Tipu Sultan in 1791.A small part of Tipu Sultan's Summer Palace has been converted into a museum lately, which displays various antiques and knick-knacks of Tipu Sultan himself and his father, Hyder Ali. It showcases weapons of war, clothes and knight armors of the two kings, coins, crowns etc.Tipu Sultan's Summer Palace, in Bangalore is an example of Indo-Islamic architecture and was the summer residence of the Mysorean ruler Tipu Sultan. Hyder Ali commenced its construction within the walls of the Bangalore Fort, and it was completed during the reign of Tipu Sultan in 1791",
+            "reviews": [
+                {
+                    "Rating": 4.5,
+                    "Reviews": "\n\tPositive: A historical gem showcasing Indo-Islamic architecture. The museum offers insights into Tipu Sultan's life, and the surrounding gardens enhance the visit.\n\tNegative: Limited parking and a relatively small palace might make the visit seem brief. Crowds can be a concern during peak hours."
+                }
+            ]
+        },
+        {
+            "name": "4.Vidhana Saudha",
+            "description": "Vidhana Soudha in Bangalore, India, is the seat of the state legislature of Karnataka. It is constructed in a style described as Neo-Dravidian, and incorporates elements of various Dravidian styles. Construction was started in 1952 and completed in 1956.Built with granite, Vidhana Soudha is the largest legislative building in India. It measures 213.36 by 106.68 metres (700.0 by 350.0 ft) on the ground and is 53.34 metres (175.0 ft) tall. The architecture includes elements of styles from the mediaeval Chalukya, Hoysala and Vijayanagara empires of Karnataka.",
+            "reviews": [
+                {
+                    "Rating": 4.4,
+                    "Reviews": "\n\tPositive: An architecturally impressive government building, especially illuminated at night. The surrounding area is well-maintained and suitable for a leisurely stroll.\n\tNegative: Restricted entry limits the overall visitor experience. Traffic congestion in the vicinity can be challenging."
+                }
+            ]
+        },
+        {
+            "name": "5.HAL Heritage Centre And Aerospace Museum",
+            "description": "HAL Aerospace Museum is India's first aerospace museum located at Hindustan Aeronautics Limited premises, in Bangalore. Established in 2001, the Museum is part of the HAL Heritage Centre and Aero Space Museum, and showcases the growth of the Indian aviation industry and HAL for six decades.HAL Heritage Centre and Aerospace Museum was established by Hindustan Aeronautics Limited. The museum displays a varied collection of aircraft models, fighter planes and helicopters. The museum also houses a reference library, aircraft simulators, a mock air traffic control tower and an aeromodelling club.",
+            "reviews": [
+                {
+                    "Rating": 4.8,
+                    "Reviews": "\n\tPositive: A fascinating museum showcasing India's aerospace achievements. The outdoor aircraft display is a highlight, and the educational value is commendable.\n\tNegative: Some interactive exhibits may require maintenance, and the museum can be crowded during school holidays."
+                }
+            ]
+        },
+        {
+            "name": "6.UB City",
+            "description": "UB City is a business district in Bengaluru, India. It consists of 6 blocks with a total built up area of over 16 lakh sq ft. Pioneered by the UB Group in Joint Venture with Prestige Group, it is built on 13 acres of land and hosts 1,000,000 sq ft of high-end commercial, retail and service apartment space.UB City is a prominent commercial complex located in Bangalore, India. It is known for its upscale shopping, dining, and office spaces. The complex is situated in the heart of the city, making it a hub for business and entertainment.",
+            "reviews": [
+                {
+                    "Rating": 4.6,
+                    "Reviews": "\n\tPositive: A luxurious destination with modern architecture and high-end shopping and dining options. The ambiance is sophisticated, and it attracts those with discerning tastes.\n\tNegative: Limited parking and an upscale nature that may not cater to all budgets. Casual dining options are relatively limited."
+                }
+            ]
+        },
+        {
+            "name": "7.Madivala Lake",
+            "description": "Madiwala lake is one of the biggest lakes in Bangalore, India spread over an area of 114.3 hectare. The water in the lake was fit for drinking till the early 1990s. Since then it has become unfit for drinking due to industrial waste and sewage entering the waterbody. It has gradually become polluted.",
+            "reviews": [
+                {
+                    "Rating": 4.3,
+                    "Reviews": "\n\tPositive: A peaceful lake surrounded by greenery, ideal for a relaxing stroll or boating. Birdwatching opportunities make it popular among nature enthusiasts.\n\tNegative: Crowded lakefront, especially on weekends. Facilities like boating docks may require better maintenance."
+                }
+            ]
+        },
+        {
+            "name": "8.St. Mary's Basilica",
+            "description": "St. Mary's Basilica is located in the Archdiocese of Bangalore in the Indian state of Karnataka. It is among the oldest churches in Bangalore and the first church in the state that has been elevated to the status of a minor basilica.Built in 1882, St. Mary's Basilica is the oldest church in Bangalore and is the only church in the state that has been elevated to the status of a minor basilica. It is famous for the festivities it holds during the St. Mary's Feast, in September each year.",
+            "reviews": [
+                {
+                    "Rating": 4.7,
+                    "Reviews": "\n\tPositive: A historic and architecturally rich church with a serene atmosphere. Stained glass windows and religious artifacts create an impressive spiritual experience.\n\tNegative: Limited parking, and it may get crowded during religious events. Some visitors may find the interior dimly lit."
+                }
+            ]
+        },
+        {
+            "name": "9.Big Bull Temple",
+            "description": "This temple is noted for its large statue of sacred bull,Nandi. Standing at a height of around 4 m, the statue has been carved out of a single grey granite stone and has been polished black with a mixture of charcoal powder and peanut oil.16th-century Hindu temple containing a sculpture of the sacred bull carved out of granite.",
+            "reviews": [
+                {
+                    "Rating": 4.5,
+                    "Reviews": "\n\tPositive: A significant religious site with a massive Nandi statue and unique architecture. The surrounding market adds to the cultural experience.\n\tNegative: Crowded area, and the market might be overwhelming. Limited parking space adds to the challenge."
+                }
+            ]
+        },
+        {
+            "name": "10.Bugle Rock Temple",
+            "description": "Serene park shaded by a tree canopy featuring gardens, waterfalls & fountains, plus three temples.Situated in N R Colony,Basavanagudi in Bangalore, Bugle Rock Park is famous for the central rock formed through geological changes over the years. Besides scientists and regular geologists, the park experiences a regular influx of tourists. There is also a watchtower that offer a bird's eye view of the city.",
+            "reviews": [
+                {
+                    "Rating": 4.4,
+                    "Reviews": "\n\tPositive: An ancient temple with a unique rock formation and historical significance. The panoramic view and peaceful surroundings make it ideal for meditation.\n\tNegative: Limited facilities, and the climb to the temple may be challenging. Some visitors may prefer more detailed information about the temple's history."
+                }
+            ]
+        }
+    ]
+}
