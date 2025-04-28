@@ -30,4 +30,5 @@ To run this project on your local machine, follow the instructions below:
 - PIL (Pillow) for image handling:
   ```bash
   pip install Pillow
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/96e46ad7-5687-41aa-98a8-9a54fcaf9357)
+
